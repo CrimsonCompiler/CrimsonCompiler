@@ -15,11 +15,11 @@ Just a curious all-rounder loves to explore everything! 💫
 
 **Programming Languages**: C/C++, Java, JavaScript, Typescript
 
-**Frontend**: React Js, Recoil, Tailwind
+**Frontend**: React Js, Next Js
 
-**Backend**: Node Js, Express Js, JWT, Zod, Prisma
+**Backend**: Node Js, Express Js, JWT, Zod, Prisma, Nest Js
 
-**Database**: PostgreSql, MongoDB, Oracle21C xe and 11gxe
+**Database**: PostgreSql, MongoDB, Oracle21C xe and 11gxe, Supabase
 
 <br>
 <br>
