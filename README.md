@@ -1,7 +1,7 @@
 Just a curious all-rounder loves to explore everything! 💫
 
 
-```bash
+```cpp
 I love working with:
 ```
 <p>
